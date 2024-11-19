@@ -1,0 +1,145 @@
+/* style.ccs */
+
+body{
+    background-color: rgba(233, 233, 233, 0.967);
+    margin: 0;
+    
+}
+
+main{
+    margin: 8px;
+}
+
+#head-logo{
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+#head-logo img{
+    width: 70px;
+    line-height: 70%;
+    vertical-align: middle;
+}
+
+#head-logo span{
+    font-family:'Montserrat';
+    font-size: 50px;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+header{
+    background-color: white;
+    margin: auto;
+}
+
+
+#button-1{
+    background-color: rgb(48, 164, 242);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    
+}
+
+
+#button-2{
+    background-color:#fff;
+    color: rgba(189, 186, 186, 0.667);
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgba(189, 186, 186, 0.667);
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    font-weight: 500;   
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 40px;
+
+}
+
+
+main{
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+
+p{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 18px;
+    color: #333;
+}
+
+
+.label-1{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(48, 164, 242);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
+
+#label-2{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(141, 72, 238);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
+
+#label-3{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(24, 143, 131);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
+
+#label-4{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(242, 155, 48);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
+
+#label-5{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(194, 59, 156);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
+
+#label-6{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background-color: rgb(183, 194, 100);
+    border-radius: 15px;
+    padding: 7px 10px;
+}
